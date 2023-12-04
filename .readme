@@ -1,0 +1,5 @@
+Run Zip:  dotnet run --project TPH.Sevenzip.Compress/TPH.Sevenzip.Compress.csproj
+
+Run Undo:  dotnet run --project TPH.Sevenzip.Undo/TPH.Sevenzip.Undo.csproj
+
+Run Unzip: dotnet run --project TPH.Sevenzip.UnCompress/TPH.Sevenzip.UnCompress.csproj
